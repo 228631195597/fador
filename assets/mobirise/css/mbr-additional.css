@@ -1429,150 +1429,15 @@ a {
 .cid-uBQP2VMvKR .mbr-section-btn {
   color: #ffeb69;
 }
-.cid-uBt30iIko5 {
-  display: flex;
-  background-image: url("../../../assets/images/3732096a0d351e2dd28b42efb8204349.webp");
+.cid-uBQWZfgfBF {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #a6a99c;
 }
-.cid-uBt30iIko5 .mbr-overlay {
-  background-color: #1f6463;
-  opacity: 0.8;
-}
-.cid-uBt30iIko5 .content-wrap {
-  padding: 5rem 1rem;
-}
-@media (min-width: 992px) {
-  .cid-uBt30iIko5 .content-wrap {
-    padding: 5rem 3rem;
-  }
-}
-@media (min-width: 768px) {
-  .cid-uBt30iIko5 {
-    align-items: center;
-  }
-  .cid-uBt30iIko5 .row {
-    justify-content: center;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-uBt30iIko5 .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-uBt30iIko5 {
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-uBt30iIko5 .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-uBt30iIko5 .content-wrap {
-    width: 100%;
-  }
-}
-.cid-uBt30iIko5 .mbr-section-title {
-  text-align: center;
-  color: #ffeb69;
-}
-.cid-uBt30iIko5 .mbr-text,
-.cid-uBt30iIko5 .mbr-section-btn {
-  text-align: center;
-  color: #9fe870;
-}
-.cid-uBt30iIko5 .mbr-description {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-tMlEXTHLbS {
-  padding-top: 4rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/background-225x225.jpeg");
-}
-.cid-tMlEXTHLbS .mbr-overlay {
-  background: #fafafa;
-  opacity: 0.1;
-}
-.cid-tMlEXTHLbS img,
-.cid-tMlEXTHLbS .item-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-.cid-tMlEXTHLbS .item:focus,
-.cid-tMlEXTHLbS span:focus {
-  outline: none;
-}
-.cid-tMlEXTHLbS .item {
-  margin-bottom: 2rem;
-}
-@media (max-width: 767px) {
-  .cid-tMlEXTHLbS .item {
-    margin-bottom: 1rem;
-  }
-}
-.cid-tMlEXTHLbS .row {
-  margin-left: 0;
-  margin-right: 0;
-}
-.cid-tMlEXTHLbS .item {
-  padding: 0;
-  margin: 0;
-}
-.cid-tMlEXTHLbS .item-content {
-  margin-top: 2rem;
-  padding: 0 2.25rem 2.25rem;
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-}
-@media (max-width: 767px) {
-  .cid-tMlEXTHLbS .item-content {
-    padding: 0 2rem 1.5rem;
-    margin-top: 1rem;
-  }
-}
-.cid-tMlEXTHLbS .item-wrapper {
-  position: relative;
-  background: #ffffff;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-.cid-tMlEXTHLbS .item-wrapper .item-footer {
-  margin-top: auto;
-}
-.cid-tMlEXTHLbS .mbr-section-title {
-  color: #a0e1e1;
-  text-align: center;
-}
-.cid-tMlEXTHLbS .item-title {
-  text-align: left;
-}
-.cid-tMlEXTHLbS .item-subtitle {
-  text-align: left;
-}
-.cid-tMlEXTHLbS .mbr-text,
-.cid-tMlEXTHLbS .item .mbr-section-btn {
-  text-align: left;
-}
-.cid-tMlEXTHLbS .content-head {
-  max-width: 800px;
-}
-.cid-tMlEXTHLbS .mbr-section-subtitle,
-.cid-tMlEXTHLbS .mbr-section-head .mbr-section-btn {
-  color: #ffffff;
-  text-align: center;
-}
-.cid-tLdYHD757A {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background: #a6a99c;
-}
-.cid-tLdYHD757A .mbr-fallback-image.disabled {
+.cid-uBQWZfgfBF .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tLdYHD757A .mbr-fallback-image {
+.cid-uBQWZfgfBF .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1581,80 +1446,41 @@ a {
   position: absolute;
   top: 0;
 }
-@media (max-width: 767px) {
-  .cid-tLdYHD757A .row {
-    text-align: center;
-  }
-  .cid-tLdYHD757A .row .map-wrapper {
-    margin-top: 1rem;
-  }
+.cid-uBQWZfgfBF .bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
 }
-.cid-tLdYHD757A .google-map {
-  height: 100%;
-  position: relative;
+.cid-uBQWZfgfBF .bg-facebook:hover {
+  background: #0b60cb;
 }
-.cid-tLdYHD757A .google-map iframe {
-  height: 100%;
-  width: 100%;
+.cid-uBQWZfgfBF .bg-instagram {
+  background: #f00075;
+  color: #ffffff;
 }
-@media (max-width: 767px) {
-  .cid-tLdYHD757A .google-map iframe {
-    min-height: 350px;
-  }
+.cid-uBQWZfgfBF .bg-instagram:hover {
+  background: #bd005c;
 }
-.cid-tLdYHD757A .google-map [data-state-details] {
-  color: #6b6763;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
+.cid-uBQWZfgfBF .bg-tiktok {
+  background: #000000;
+  color: #ffffff;
+}
+.cid-uBQWZfgfBF .bg-tiktok:hover {
+  background: #000000;
+}
+.cid-uBQWZfgfBF .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 72px;
+  height: 72px;
+  line-height: 72px;
   text-align: center;
-  top: 50%;
-  width: 100%;
+  transition: all 0.3s ease-in-out;
 }
-.cid-tLdYHD757A .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-tLdYHD757A .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-tLdYHD757A .card-wrapper {
-  background: #ffffff;
-}
-@media (max-width: 767px) {
-  .cid-tLdYHD757A .card-wrapper {
-    padding: 2rem 1.5rem;
-  }
-}
-@media (min-width: 768px) {
-  .cid-tLdYHD757A .card-wrapper {
-    padding: 2.25rem;
-  }
-}
-.cid-tLdYHD757A .text-wrapper {
-  padding: 0 1rem;
-}
-@media (max-width: 767px) {
-  .cid-tLdYHD757A .cardTitle,
-  .cid-tLdYHD757A .item-wrap {
-    text-align: center;
-  }
-}
-.cid-tLdYHD757A ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-.cid-tLdYHD757A .list,
-.cid-tLdYHD757A .item-wrap {
-  color: #bcef9b;
-}
-.cid-tLdYHD757A .mbr-section-title {
-  color: #ffeb69;
-}
-.cid-tLdYHD757A .cardTitle {
-  color: #bcef9b;
+.cid-uBQWZfgfBF [class^="socicon-"]:before,
+.cid-uBQWZfgfBF [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
 }
 .cid-uByFgrS70x {
   padding-top: 2rem;
@@ -2235,6 +2061,7 @@ a {
 .cid-uzS9wsIlYN .item-img {
   width: 100%;
   height: 100%;
+  height: 400px;
   object-fit: cover;
 }
 .cid-uzS9wsIlYN .item:focus,
@@ -2271,7 +2098,7 @@ a {
 }
 .cid-uzS9wsIlYN .mbr-text,
 .cid-uzS9wsIlYN .mbr-section-btn {
-  color: #a6a99c;
+  color: #ffeb69;
   text-align: center;
 }
 .cid-uzS9wsIlYN .item-title {
@@ -2942,7 +2769,7 @@ a {
 }
 .cid-uzRVyR48A6 .mbr-text,
 .cid-uzRVyR48A6 .mbr-section-btn {
-  color: #ffa25b;
+  color: #ffeb69;
 }
 .cid-uzRVyR48A6 img {
   width: 100%;

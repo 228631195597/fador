@@ -134,23 +134,38 @@
 
   
   
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Video Organisasi</title>
+    <style>
+        .video-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+        }
+        iframe {
+            width: 100%;
+            max-width: 500px;
+            height: 600px;
+            border: none;
+        }
+    </style>
 </head>
 <body>
-    <h3>Vidio Pelantikan Pengurus Organisasi:</h3>
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C9HCvGrSJW2/?igsh=d3JrNTRiYXkybm1o" data-instgrm-version="14"></blockquote>
-    <br>
-    <h3>Vidio Pencarian Dana Organisasi:</h3>
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C83YOlOS8_W/?igsh=aXk0N3kzazFsZGls" data-instgrm-version="14"></blockquote>
-    
-    <script async src="https://www.instagram.com/embed.js"></script>
+    <div class="video-container">
+        <h3>Vidio Pelantikan Pengurus Organisasi:</h3>
+        <iframe src="https://www.instagram.com/reel/C9HCvGrSJW2/embed" allowfullscreen></iframe>
+        
+        <h3>Vidio Pencarian Dana Organisasi:</h3>
+        <iframe src="https://www.instagram.com/reel/C83YOlOS8_W/embed" allowfullscreen></iframe>
+    </div>
 </body>
 </html>
+
 
 
     
